@@ -1,0 +1,22 @@
+<template>
+    <div>
+        page2
+    </div>
+</template>
+
+<script>
+export default {
+    name:'page2',
+    data(){
+        return {
+
+        }
+    }
+}
+</script>
+
+<style scoped>
+
+</style>
+
+
