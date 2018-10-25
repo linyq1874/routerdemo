@@ -1,6 +1,6 @@
 <template>
     <div>
-        page2
+      我是 page2，点F5刷新，页面出现了不想要的logo以及导航
     </div>
 </template>
 
