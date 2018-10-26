@@ -22,7 +22,7 @@
       }
     },
     methods:{
-     
+
     }
   }
 </script>
